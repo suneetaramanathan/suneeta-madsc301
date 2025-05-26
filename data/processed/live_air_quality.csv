@@ -1,0 +1,2 @@
+City,State,Country,Timestamp,AQI_US,Main_Pollutant,Temperature,Humidity,Wind_Speed
+Los Angeles,California,USA,2025-05-26T06:00:00.000Z,46,p2,15,82,1.54
