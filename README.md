@@ -91,11 +91,17 @@ This project is developed as part of the MADSC301 – Business Intelligence cour
 
 Suneeta_MADSC301/
 ├── etl_pipeline.py # Core ETL process (Python script)
+
 ├── suneeta-madsc301-code-file.ipynb # Jupyter Notebook with analysis & ML
+
 ├── requirements.txt # All Python dependencies
+
 ├── Dockerfile # Docker container definition
+
 ├── crontab.txt # Cron schedule for automation
+
 ├── global_air_quality_data_10000.csv # Input dataset from Kaggle
+
 └── /data/processed/ # Auto-generated CSV outputs
 
 
